@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2dfc9f5f-1b30-488d-832c-06e7cbd56bb8",
+  "export_job_id": "92f37f01-e4b3-4d33-a90f-e249158d9564",
   "id_short": 627699,
-  "published_at": "2026-04-17T19:47:20Z",
+  "published_at": "2026-04-21T19:37:57Z",
   "repo_name": "all-restaurants-in-york-hanover-metro-pennsylvania-us-sample-627699",
   "sample_asset_name": "beamstation_627699_restaurants-us-yorkhanoverpa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/627699/beamstation_627699_restaurants-us-yorkhanoverpa_SAMPLE_DIST.csv",
-  "sample_records": 66,
-  "sample_sha256": "74d780a390fcec3e2c7332e082104035db784f69591c40ef3862c8ece40b43d5",
-  "sample_size_bytes": 236200,
-  "total_records": 669
+  "sample_records": 58,
+  "sample_sha256": "45ffbe8358a777ab38d6ca385b75e615a9672b57943a9571340390a76dfaf461",
+  "sample_size_bytes": 220419,
+  "total_records": 589
 }
