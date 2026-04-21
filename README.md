@@ -1,6 +1,6 @@
 # All Restaurants in York-Hanover (Metro), Pennsylvania, US
 
-> Free BeamStation sample export with 66 rows and masked direct-contact fields.
+> Free BeamStation sample export with 58 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `627699` |
 | Location | York-Hanover, PA |
 | Category | Restaurants |
-| Full dataset size | 669 records |
-| Free sample size | 66 records (9.87%) |
-| Last export | 2026-04-14T17:07:00.385358+00:00 |
+| Full dataset size | 589 records |
+| Free sample size | 58 records (9.85%) |
+| Last export | 2026-04-21T18:45:13.351957+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-york-hanover-metro-pennsylvania-us-sample-627699/releases/download/sample-latest/beamstation_627699_restaurants-us-yorkhanoverpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
